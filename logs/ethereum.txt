@@ -482,3 +482,4 @@
 {"jsonrpc":"2.0","id":1,"result":"0x45ebd5c42"}
 {"jsonrpc":"2.0","id":1,"result":"0x47fd5b88e"}
 {"jsonrpc":"2.0","id":1,"error":{"code":555,"message":"Rpc Error","data":"{\"Error_GUID\":\"3430456797655859799\",\"Error\":\"getSupportedApi jsonrpc failed {reason:api not supported {name:eth_gasPrice,connectionType:},method:eth_gasPrice}\"}"}}
+{"jsonrpc":"2.0","id":1,"error":{"code":555,"message":"Rpc Error","data":"{\"Error_GUID\":\"8130344835948190665\",\"Error\":\"getSupportedApi jsonrpc failed {reason:api not supported {name:eth_gasPrice,connectionType:},method:eth_gasPrice}\"}"}}
